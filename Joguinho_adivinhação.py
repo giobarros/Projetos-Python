@@ -1,5 +1,5 @@
 from random import randint
-jogador_1 = randint(0, 10)
+jogador_1 = randint(1, 10)
 print('Jogador 1 pensou em um número entre 0 e 10. \nVocê consegue adivinhar?')
 acertou = False
 jogadas = 0
